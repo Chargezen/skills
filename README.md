@@ -30,3 +30,7 @@ Or point your agent at the hosted copy:
 - Personal Agent Protocol 1.0: https://chargezen.com/.well-known/poppy.json
 
 The hosted copies on chargezen.com are the source of truth; this repository mirrors them.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
