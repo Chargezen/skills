@@ -9,7 +9,7 @@ url: https://chargezen.com/.well-known/agent-skills/weekly-brief/SKILL.md
 
 Period: the last 7 days ending now, unless the person names another period. Work out the start and end as timestamps with an explicit UTC offset and use the same period everywhere. Reports name the store's time zone in `scope.timezone`; once you know it, use its midnight for the start and end. Until then use UTC and say so.
 
-Follow the `chargezen` skill (https://chargezen.com/.well-known/agent-skills/chargezen/SKILL.md) for how to reach the tools. **Use only reads** (`chargezen.tools.call_read.v1`); change nothing. Skip any part whose tools this connection doesn't have, and say which parts you skipped and why, in one line at the end.
+Follow the `chargezen` skill (https://chargezen.com/.well-known/agent-skills/chargezen/SKILL.md) for how to reach the tools. **Use only tools that read**; change nothing. Skip any part whose tools this connection doesn't have, and say which parts you skipped and why, in one line at the end.
 
 ## Gather
 
