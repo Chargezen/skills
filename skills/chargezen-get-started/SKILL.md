@@ -78,8 +78,7 @@ Once connected, offer this, and only this, as the first step:
 > Want me to look at last week? I'll pull your orders, subscriptions and customer conversations
 > and tell you the three things that need your attention.
 
-If they say yes, use the read tools (start with `chargezen.tools.index.v1` to see what this
-connection can do) and answer in plain words. Don't list the tools to the person.
+If they say yes, use the read tools and answer in plain words. Don't list the tools to the person.
 
 ## If something goes wrong
 
